@@ -1,0 +1,16 @@
+
+nav{
+    background-color: #0f6674;
+}
+img{
+    height: 500px;
+    object-fit: cover;
+}
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: #374238;
+}
+p{
+    margin-left: 5px;
+}
