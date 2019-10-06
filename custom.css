@@ -1,16 +1,30 @@
+html, body {
+    height: 100%;
+    position: relative;
+}
 
 nav{
-    background-color: #0f6674;
+    color: #E9ECEF;
 }
+
 img{
     height: 500px;
     object-fit: cover;
 }
-footer{
-    height: 50px;
-    width: 100%;
-    background-color: #374238;
-}
+
 p{
     margin-left: 5px;
+}
+form{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 16px;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height:60px;
+    background-color: #374238;
 }
